@@ -40,7 +40,7 @@ Here are some of the repositories / projects I’ve built and worked on 👇
 
 | Project | Description |
 |--------|-------------|
-| **<a href="https://github.com/amoghraikar/SentinelAI/">SentinelAI</a>** | A next-generation authentication platform leveraging computer vision, speaker verification, and AI-driven risk analysis to provide adaptive multi-factor authentication. |
+| **<a href="https://github.com/amoghraikar/SentinelAI">SentinelAI</a>** | A next-generation authentication platform leveraging computer vision, speaker verification, and AI-driven risk analysis to provide adaptive multi-factor authentication. |
 | **<a href="https://github.com/amoghraikar">coming soon</a>** | A safety system built using Arduino UNO that automatically detects and counts children entering and exiting a school bus using ultrasonic sensors. If any child is left behind when the engine is turned off, the system triggers buzzer and LED alerts.  |
 | **<a href="https://github.com/amoghraikar">coming soon</a>** |A real-time Face Emotion Detection system that captures live webcam video, detects faces, and predicts the dominant emotion (Happy, Sad, Angry, Surprise, Neutral, etc.) using Deep Learning. Fully optimized for Apple Silicon (M1 / M2 / M3 / M4) macOS devices.|
 
